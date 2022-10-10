@@ -1,5 +1,5 @@
 # name-probability
-A React.js application used for quickly fetching data from API's about names.
+A React.js application used for testing fetching data from different API's based on name input.
 
 
 # API's used
